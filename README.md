@@ -5,7 +5,8 @@
 -  I have a years of experience as a Data Scientist and familiar with Advance Technology in deep learning. 
 -  🔭 AOI in Natural Language Processing and Computer Vision
 - 🌱 A Data Scientist with the ability of solving critical problems within time bound. 
- /* "" Only Intelligence  can  make  Machine to Intelligence """ */
+
+- Only Intelligence  can  make  Machine to Intelligence
 
 
 
