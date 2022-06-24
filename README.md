@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- """Only Intelligence  can  make  Machine to Intelligence"""
+- """Only Intelligent can make a Machine into Intelligence"""
 
 -  🔭 AOI in Natural Language Processing and Blockchain
 - 🌱 A Data Scientist with the ability of solving critical problems within time bound. 
