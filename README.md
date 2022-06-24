@@ -5,13 +5,10 @@
 -  🔭 AOI in Natural Language Processing and Blockchain
 - 🌱 A Data Scientist with the ability of solving critical problems within time bound. 
 
-\
 - 😄 Get in touch :
 <a href="https://www.linkedin.com/in/shamil-k-674684217/">
-
-  <br>
        <img align="left" alt="Ketan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+    </a>
 
  <br>
   
