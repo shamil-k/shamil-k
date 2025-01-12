@@ -7,7 +7,7 @@
 
 - 😄 Get in touch :
 <a href="https://www.linkedin.com/in/shamil-k-674684217/">
-       <img align="left" alt="Ketan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+       linkedIn
     </a>
 
  <br>
