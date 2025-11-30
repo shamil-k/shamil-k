@@ -6,7 +6,7 @@
 - 🌱 A Data Scientist with the ability of solving critical problems within time bound. 
 
 - 😄 Get in touch :
-<a href="https://www.linkedin.com/in/shamil-k-674684217/">
+<a href="linkedin.com/in/shamil-kayanolil-674684217">
        linkedIn
     </a>
 
