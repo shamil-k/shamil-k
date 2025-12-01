@@ -33,8 +33,6 @@ I specialize in designing and deploying production-grade AI/ML solutions, with a
 * Developed IoT-based predictive climate control using ML models to optimize micro-environments.
 * Reduced manual intervention by 80% while improving crop yield consistency.
 
-### 📈 Stats
-![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-k&show_icons=true&theme=radical)
 
 - 😄 Get in touch :
 <a href="https://www.linkedin.com/in/shamil-kayanolil-674684217">
