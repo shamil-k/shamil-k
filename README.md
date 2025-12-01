@@ -2,8 +2,39 @@
 
 - """Only Intelligent can make a Machine into Intelligence"""
 
--  🔭 AOI in Natural Language Processing and Blockchain
-- 🌱 A Data Scientist with the ability of solving critical problems within time bound. 
+## Senior AI/ML Product Engineer | GenAI Specialist
+
+I specialize in designing and deploying production-grade AI/ML solutions, with a focus on **Generative AI, Multi-Agent Orchestration, and MLOps**. I have extensive experience building scalable systems for the Healthcare and Insurance industries.
+
+### 🛠️ Tech Stack
+
+* **GenAI & LLMs:** LangChain, LlamaIndex, AutoGen, OpenAI, Gemini, Claude, Ollama.
+* **Machine Learning:** PyTorch, Scikit-learn, Computer Vision (ViT, YOLO), NLP.
+* **MLOps & DevOps:** Docker, Kubernetes (AKS), Terraform, Apache Airflow, MLflow, Azure DevOps.
+* **Cloud & Backend:** Azure (AI Foundry, Service Bus), AWS (Lambda, SageMaker), GCP, FastAPI, gRPC.
+* **Data & Search:** Pinecone, Qdrant, ChromaDB, Apache Spark, Snowflake.
+
+### 🚀 Featured Projects
+
+**🤖 Medical Coding Automation Agent**
+* Designed an end-to-end multi-agent AI system for workers' compensation medical coding.
+* Integrated EHR data ingestion with LLMs for CPT/ICD prediction.
+* Achieved 80-90% automation in code submission to insurance systems.
+
+**👁️ CCTV Anomaly Detection & Analytics**
+* Built an anomaly detection system using Vision Transformers (ViT) and InternVL2.
+* Implemented real-time face detection (SCRFD) and recognition (ArcFace) for employee attendance tracking.
+
+**🎙️ Real-time Medical Transcription Platform**
+* Led the development of a microservices-based transcription system using WebSocket, VAD, and Azure Service Bus.
+* Deployed on Google Cloud Run to serve multiple hospital departments.
+
+**🌱 AI-Powered Agri-Tech Monitoring**
+* Developed IoT-based predictive climate control using ML models to optimize micro-environments.
+* Reduced manual intervention by 80% while improving crop yield consistency.
+
+### 📈 Stats
+![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamil-k&show_icons=true&theme=radical)
 
 - 😄 Get in touch :
 <a href="https://www.linkedin.com/in/shamil-kayanolil-674684217">
